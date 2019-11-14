@@ -1,0 +1,12 @@
+{
+  "name": "nfq-homework-6",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "nfq\\": "src/"
+    }
+  }
+}
